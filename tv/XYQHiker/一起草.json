@@ -32,7 +32,7 @@
     "首页片单链接加后缀": "",
     "分类起始页码": "1",
     //"分类链接": "https://www.l0l.tv/index.php/vod/show/id/{cateId}/page/{catePg}.html",
-	"分类链接": "https://www.eeccars.com:2096/category/0.html?category_id={cateId}&page={catePg}.html",
+	"分类链接": "https://www.eeccars.com:2096/category/2.html?category_id={cateId}&page={catePg}.html",
     "分类名称": "国产&原创&传媒&日韩&欧美&动漫&AI换脸&主播&AV解说&同性",
     "分类名称替换词": "1&40&2&3&4&5&6&7&8&10",
     //"筛选数据":{},
