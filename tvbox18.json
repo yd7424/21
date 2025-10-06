@@ -23,6 +23,7 @@
   
  //type,0表达xml，1表达json，3表达jar内置json 
     //___
+
 {"key":"csp_LocalFile","name": "💾本地视频","type": 3,"api": "csp_LocalFile","searchable": 0,"quickSearch": 0,"filterable": 0,"style": {"type": "rect","ratio": 1.6}},
 //{"key": "火车太顺","name": "火车太顺","type": 3,"api": ""spider": "https://gh-proxy.com/raw.githubusercontent.com/yd7424/21/main/tv/XYQHiker/ys/火车太顺APP.py","searchable": 1,"quickSearch": 1,"filterable": 1,"style": {"type": "rect","ratio": 1.6}},
 {"key":"csp_XYQHiker_樱花动漫","name": "樱花动漫(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": ""spider": "https://gh-proxy.com/raw.githubusercontent.com/yd7424/21/main/tv/XYQHiker/樱花动漫.json","style": {"type": "rect","ratio": 1.6}},
